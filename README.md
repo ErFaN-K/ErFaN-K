@@ -30,7 +30,7 @@ const response = {
 ---
 
 
-<div style="padding-top: 6px; padding-inline: 6px; margin-block: 12px; text-align: center; border-radius: 8px;">
-    <img src="https://profile-readme-generator.com/assets/snake.svg">
+<div style="padding-top: 6px; padding-inline: 6px; margin-block: 12px; border-radius: 8px;" align="center">
+    <img src="https://profile-readme-generator.com/assets/snake.svg" style="width: 100%;">
 </div>
 
