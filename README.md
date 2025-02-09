@@ -26,8 +26,4 @@ const response = {
 
 ---
 
-<div align="center">
-    <p style="font-size: 14px; font-weight: bold;">The first time I touched the keyboard keys I was about 5 years old 
-From there, my fate was determined with computers
-Now I know more than a beginner, but I still can't call myself a perfect person because no one is perfect 😊</p>
-</div>
+  > The first time I touched the keyboard keys I was about 5 years old From there, my fate was determined with computersNow I know more than a beginner, but I still can't call myself a perfect person because   no one is perfect 😊
