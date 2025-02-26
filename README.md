@@ -2,8 +2,8 @@
 const response = {
   userName: "Erfan Abouei",
   userAge: 16,
-  userPosition: "Junior FrontEnd Developer",
-  userSkill: "Tailwindcss, Javascript, VUE, Git ...",
+  userPosition: "Junior MEVN Stack Developer",
+  userSkill: "NodeJs, ExpressJs, MongoDB, ...",
   greet: function () {
     console.log(`Hello My Name Is ${this.userName}. I Like To Learn :)`)
   }
@@ -14,7 +14,7 @@ const response = {
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,vue,bootstrap,tailwindcss,git,github,gitlab,npm,firebase,figma,xd,vscode,phpstorm"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwindcss,mongodb,expressjs,vue,nodejs,webpack,vite,npm,git,gitlab,"/>
   </a>
 </div>
 
