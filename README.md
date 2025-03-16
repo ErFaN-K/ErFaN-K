@@ -14,7 +14,7 @@ const response = {
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwindcss,mongodb,expressjs,vue,nodejs,nuxtjs,typescript,webpack,npm,git,gitlab"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwindcss,mongodb,expressjs,vue,nodejs,nuxtjs,pinia,typescript,webpack,npm,gitlab"/>
   </a>
 </div>
 
