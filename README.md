@@ -3,7 +3,7 @@ const response = {
     userName: "Erfan Abouei",
     userAge: 16,
     userPosition: "Junior MEVN Stack Developer",
-    userSkill: ["NodeJs", "VUE", "TypeScript", ...],
+    userSkill: ["Express js", "Vue Js", "NUXT Js", ...],
     greet: function () {
         console.log(`Hello My Name Is ${this.userName}. I Like To Learn :)`)
     }
