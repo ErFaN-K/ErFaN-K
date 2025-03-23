@@ -1,5 +1,5 @@
 ```javascript
-const response = {
+const userInfo = {
     userName: "Erfan Abouei",
     userAge: 17,
     userPosition: "Junior MEVN Stack Developer",
