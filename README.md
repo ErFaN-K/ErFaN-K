@@ -2,14 +2,21 @@
 const userInfo = {
     userName: "Erfan Abouei",
     userAge: 17,
-    userPosition: "Front End Developer",
-    userSkill: ["Express js", "Vue Js", "Nuxt Js", ...],
-    greet: function () {
-        console.log(`Hello My Name Is ${this.userName}. I Like To Learn :)`)
+    userPosition: "MEVN Stack Developer",
+    userSkills: [
+        "Express.js",
+        "Vue.js",
+        "Nuxt.js",
+    ],
+    greet() {
+        console.log(`Hello, my name is ${this.userName}. I love learning new things! 😊`);
+    },
+    getUserInfo() {
+        return `${this.userName} is a ${this.userPosition} who is ${this.userAge} years old and skilled in: ${this.userSkills.join(', ')}.`;
     }
-    ... 👨‍💻
-}
-```
+};
+
+console.log(userInfo.getUserInfo());
 ---
 
 <div align="center">
