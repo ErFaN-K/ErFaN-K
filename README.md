@@ -2,8 +2,8 @@
 const userInfo = {
     userName: "Erfan Abouei",
     userAge: 17,
-    userPosition: "Junior MEVN Stack Developer",
-    userSkill: ["Express js", "Vue Js", "NUXT Js", ...],
+    userPosition: "Front End Developer",
+    userSkill: ["Express js", "Vue Js", "Nuxt Js", ...],
     greet: function () {
         console.log(`Hello My Name Is ${this.userName}. I Like To Learn :)`)
     }
