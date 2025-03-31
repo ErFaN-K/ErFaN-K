@@ -17,7 +17,7 @@ const userInfo = {
 };
 
 console.log(userInfo.getUserInfo());
----
+```
 
 <div align="center">
   <a href="https://skillicons.dev">
