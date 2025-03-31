@@ -7,6 +7,7 @@ const userInfo = {
         "Express.js",
         "Vue.js",
         "Nuxt.js",
+        . . . 
     ],
     greet() {
         console.log(`Hello, my name is ${this.userName}. I love learning new things! 😊`);
