@@ -3,15 +3,7 @@ const userInfo = {
     userName: "Erfan Abouei",
     userAge: 17,
     userPosition: "MEVN Stack Developer",
-    userSkills: [
-        "Express.js",
-        "Vue.js",
-        "Nuxt.js",
-        . . . 
-    ],
-    greet() {
-        console.log(`Hello, my name is ${this.userName}. I love learning new things! 😊`);
-    },
+    userSkills: ["Express.js", "Vue.js", "Nuxt.js", ...]
     getUserInfo() {
         return `${this.userName} is a ${this.userPosition} who is ${this.userAge} years old and skilled in: ${this.userSkills.join(', ')}.`;
     }
