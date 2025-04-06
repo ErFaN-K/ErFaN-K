@@ -5,7 +5,9 @@ const userInfo = {
     userPosition: "MEVN Stack Developer",
     userSkills: ["Express.js", "Vue.js", "Nuxt.js", ...]
     getUserInfo() {
-        return `${this.userName} is a ${this.userPosition} who is ${this.userAge} years old and skilled in: ${this.userSkills.join(', ')}.`;
+        return `${this.userName} is a ${this.userPosition}
+        who is ${this.userAge} years old
+        and skilled in: ${this.userSkills.join(', ')}.`;
     }
 };
 
