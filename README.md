@@ -28,7 +28,7 @@ console.log(userInfo.getUserInfo());
 
 ---
 
-  > The first time I touched the keyboard keys I was about 5 years old From there, my fate was determined with computersNow I know more than a beginner, but I still can't call myself a perfect person because   no one is perfect 😊
+  > The first time I touched the keyboard keys I was about 5 years old From there, my fate was determined with computers. Now I know more than a beginner, but I still can't call myself a perfect person because   no one is perfect 😊
 
 ---
 
